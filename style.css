@@ -90,7 +90,7 @@ button:hover {
     }
     
     main {
-        width: 100vw;
+        min-width: 100vw;
         padding: 0 5vw;
     }
 }

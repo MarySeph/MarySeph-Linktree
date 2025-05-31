@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500&display=swap');
 
+html{
+    min-height: 100vh;
+    width: 100vw;
+    background: linear-gradient(to right, #30cfd0, #330867);
+    background-attachment:  fixed;
+}
+
 body, 
 header, 
 main {
@@ -11,9 +18,9 @@ main {
 body {
     font-family: "Poppins", sans-serif;
     color: white;
-    background: linear-gradient(to right, #30cfd0, #330867);
     margin: 0;
     min-height: 100vh;
+    width: 100vw;
     justify-content: center;
     gap: 1.25rem;
 }

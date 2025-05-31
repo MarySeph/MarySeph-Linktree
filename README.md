@@ -1,3 +1,3 @@
-One-page website with assorted links around the web where I can be found.
+Assorted links of Mary Seph's online presence.
 
-Template by [Ade Mir](https://github.com/Ade-mir)
+Template by [Ade Mir](https://github.com/Ade-mir).

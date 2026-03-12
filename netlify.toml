@@ -1,0 +1,5 @@
+[redirects]
+  from = "https://maryseph.github.io/MarySeph-Linktree/*"
+  to = "https://linkhub.maryseph.com/:splat"
+  status = 301
+  force = true
